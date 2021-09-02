@@ -42,14 +42,14 @@ if (config.AUTOBİO == 'true') auto_bio = 'On'
 if (config.AUTOBİO == 'false') auto_bio = 'Off'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `╭──────────────────╮
-   *•━━━━╼⤏FidhaMwol⤎╾━━━•*
+   ` + config.BOTPLK + `
 ╭──────────────────╯
 │
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ꪶɪᴛs-ᴍᴇ ͢ʜʏᷤᴘͥᴇᷢʀ⁨ꫂ⁩
-│ ▢ *ᴏᴡɴᴇʀ* : ғɪᴅʜᴀ ᴍᴡᴏʟ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʜʏᴘᴇʀ sɪʀ
+│ ▢ *ᴏᴡɴᴇʀ* :` + config.BOTPLK + `
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 1.0
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
 │ ▢ *ᴀᴜᴛᴏ ʙɪᴏ* : ` + auto_bio + `
