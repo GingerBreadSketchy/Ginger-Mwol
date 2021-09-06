@@ -7,8 +7,8 @@ Asena.addCommand({ pattern: 'insta ?(.*)', fromMe: false, desc: IG_DESC }, async
 //if(match[1] == '') return await message.sendMessage(infoMessage(Lang.LOADING))
     let { data, type } = await instaGram(match[1], '208c3e1637c946a6');
 //if(match[1] == '') return await message.sendMessage(infoMessage(Lang.LOADING)) 
-    if (type === 'image') { await message.sendMessage(data, MessageType.image, { caption: "*ꪶɪᴛs-ᴍᴇ ͢ʜʏᷤᴘͥᴇᷢʀ⁨ꫂ*" }) }
-    else if (type === 'video') { await message.sendMessage(data, MessageType.video, { caption: "*ꪶɪᴛs-ᴍᴇ ͢ʜʏᷤᴘͥᴇᷢʀ⁨ꫂ*" }) }
+    if (type === 'image') { await message.sendMessage(data, MessageType.image, { caption: Config.AFN}) }
+    else if (type === 'video') { await message.sendMessage(data, MessageType.video, { caption: Config.AFN}) }
 });
 //const axios = require('axios')
 async function instaGram(url, key){
