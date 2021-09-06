@@ -39,7 +39,7 @@ $ node Fidha.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hypersir/FidhaMwol
+$ git clone https://github.com/Hypersir/Fidha-Mwol
 $ cd FidhaMwol
 $ npm i
 $ node Fidha.js
@@ -67,7 +67,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IHkfNDqMxCxB91IdM2EH5o)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypersir&repo=Fidha-Mwol&theme=nightowl)](https://github.com/Hypersir/Fidha-mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypersir&repo=Fidha-Mwol&theme=nightowl)](https://github.com/Hypersir/Fidha-Mwol)
   </div>
     
 ### ⚠️ Warning! 
