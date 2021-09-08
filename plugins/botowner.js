@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.GL}, (async (messa
 
     await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `▢ *ᴏᴡɴᴇʀ: ꪶɪᴛs-ᴍᴇ ͢ʜʏᷤᴘͥᴇᷢʀ⁨ꫂ⁩*
 
-▢ *ɴᴜᴍʙᴇʀ: ᴡᴀ.ᴍᴇ/+917025967090*
+▢ *ɴᴜᴍʙᴇʀ: Wa.me/+917025967090*
 
 ▢ *ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ:http://github.com/Hypersir*
 
