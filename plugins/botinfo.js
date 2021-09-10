@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: Lang.GL}, (async (messag
 
 ▢ *ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴋɴᴏᴡ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ᴊᴜsᴛ ᴍᴇssᴀɢᴇ ,help*
 
-▢ *ғɪᴅʜᴀ ᴠ1*
+▢ *ғɪᴅʜᴀ ᴠ1* 
 
 ▢ *ᴅᴇᴠᴇʟᴏᴘᴇʀ ꪶɪᴛs-ᴍᴇ ͢ʜʏᷤᴘͥᴇᷢʀ⁨ꫂ⁩*
 
