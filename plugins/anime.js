@@ -173,7 +173,7 @@ else if (Config.WORKTYPE == 'public') {
     r_text[66] = "https://i.ibb.co/Y3RtBPB/images-24.jpg";
     r_text[67] = "https://i.ibb.co/0y2vDZ8/images-25.jpg";
     r_text[68] = "https://i.ibb.co/0Gzdx1d/images-26.jpg";
-    r_text[69] = "https://i.ibb.co/54wVtm8/images-27.jpg";
+    r_text[69] = "https://i.ibb.co/54wVtm8/images-55.jpg";
     r_text[70] = "https://i.ibb.co/bQkJTZm/images-28.jpg";
     r_text[71] = "https://i.ibb.co/hCNMWqG/images-29.jpg";
     r_text[72] = "https://i.ibb.co/qDphPx9/images-30.jpg";
