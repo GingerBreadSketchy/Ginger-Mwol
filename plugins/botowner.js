@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.GL}, (async (messa
 
 ▢ *ɴᴜᴍʙᴇʀ: Wa.me/+917025967090*
 
-▢ *ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ:http://github.com/Hypersir*
+▢ *ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ: http://github.com/Hypersir*
 
 *ʙᴏᴛ ʜᴇʟᴘʟɪɴᴇ: https://chat.whatsapp.com/ECPIf8gi8DaITTeTppAj2q*
 `}) 
