@@ -4,7 +4,7 @@ const axios = require('axios');
 const Config = require('../config');
 
 // CMD_HELP
-const brainly = "Finds the answer."
+const brainly = "Finds the answer!"
 const usage = ".brainly <Question>"
 
 const butuh = "```Enter the Question!```"
