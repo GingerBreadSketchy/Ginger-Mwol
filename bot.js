@@ -72,7 +72,7 @@ async function whatsAsena () {
                 var ov_time = new Date().toLocaleString('LK', { timeZone: 'Europe/Istanbul' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\nFidha Mwol'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\nFidhaMwol'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('994')) { 
