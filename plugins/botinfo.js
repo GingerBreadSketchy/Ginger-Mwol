@@ -28,7 +28,7 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: Lang.GL}, (async (messag
 
 ▢ *ɢɪᴛʜᴜʙ ʟɪɴᴋ:* http://github.com/Hypersir/Fidha-Mwol
 
-▢ *ʙᴏᴛ ᴄʀᴇᴀᴛɪɴɢ ᴠɪᴅᴇᴏ:* https://youtu.be/WGfDEHJyV1I
+▢ *ʙᴏᴛ ᴄʀᴇᴀᴛɪɴɢ ᴠɪᴅᴇᴏ:* https://youtu.be/0pU8N611-Oc
 `}) 
 
 }));
