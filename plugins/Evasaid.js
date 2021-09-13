@@ -2,7 +2,8 @@
 eva artificial intelligence was codded by Phaticusthiccy
 also 90% of thise code is done by Phaticusthiccy
 
-re-coded or modified by afnanplk
+re-coded or modified by saidali
+Tnx to afnan plk
 to bring new ai
 */
 
@@ -258,7 +259,7 @@ if (conf.LANG == 'ML') {
     succ_off = 'സെമി-ഫങ്ഷണൽ ആയി pinky സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
 }
 
-Asena.addCommand({ pattern: 'pinky ?(.*)', desc: fulleva_dsc, fromMe: true,dontAddCommandList: true, usage: '.pinky on / off' }, (async (message, match) => {
+Asena.addCommand({ pattern: 'eva ?(.*)', desc: fulleva_dsc, fromMe: true,dontAddCommandList: true, usage: '.eva on / off' }, (async (message, match) => {
     var pinky_status = `${conf.TALKING_PINKY}`
     if (match[1] == 'on') {
         if (pinky_status == 'true') {
