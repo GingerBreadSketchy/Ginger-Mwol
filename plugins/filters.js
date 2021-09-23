@@ -130,7 +130,7 @@ const array = ['add','back','johny','kundan','njangal','podi','sad','tagall','va
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/' + a + '.mp3'), MessageType.audio,duration: Config.SAID, {contextInfo: { forwardingScore: 5, isForwarded: true }, mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: true})
+       await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/' + a + '.mp3'), MessageType.audio, {contextInfo: { forwardingScore: 5, isForwarded: true }, mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted: message.data, ptt: true})
 }
 });
     }
@@ -153,7 +153,7 @@ if(pattern.test(message.message)){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
         if (!!message.mention && message.mention[0] == '917025967090@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./media/files/help.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('./media/files/help.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.AFNN) {
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/files/help.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
