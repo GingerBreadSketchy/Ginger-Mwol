@@ -63,10 +63,10 @@ $ node Fidha.js
 </p>
 
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+Any doubt click wa logo👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/ECPIf8gi8DaITTeTppAj2q"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://wa.me/+917025967090"><img title="any doubt contact" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypersir&repo=Fidha-Mwol&theme=nightowl)](https://github.com/Hypersir/Fidha-Mwol)
