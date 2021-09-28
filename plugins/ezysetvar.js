@@ -31,7 +31,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         BGM_on = 'bgm ഓപ്ഷൻ ഓണാക്കി'
         BGM_off = 'bgm ഓപ്ഷൻ ഓഫാക്കി'
         STICKER_on = 'STICKER option turned on!'
-        STICKER_off = 'STICKER option turned off'
+        STICKER_off = 'STICKER option turned off!'
         
     }
     Julie.addCommand({pattern: 'bgm ?(.*)', fromMe: true, desc: l_dsc, usage: '.bgm on / off' }, (async (message, match) => {
