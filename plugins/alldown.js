@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'download', fromMe: false, desc: Lang.GL}, (async (me
     var r_text = new Array ();
 
 
-    var respotext = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
+    var respotext = await axios.get(`${r_text[]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer.from(respotype.data), MessageType.text, {mimetype: Mimetype.text, caption: `🎥 ᴅᴏᴡɴʟᴏᴅ ᴄᴏᴍᴍᴀɴᴅs🎥
 ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
