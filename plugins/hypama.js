@@ -23,7 +23,7 @@ Neotro.addCommand({pattern: 'hyper', fromMe: false, dontAddCommandList: true}, (
         {title: '.all menu', description: " ", rowId:" rowid1"},
         {title: '.download Commands', description: " ", rowId:"rowid2"},
         {title: '.misc Commands', description: "\n\n ", rowId:" rowid3"},
-        {title: '.owner Commands', description: " ", rowId:" rowid4"},
+        {title: '.download Commands', description: " ", rowId:" rowid4"},
         {title: '.admin Commands', description: " ", rowId:" rowid5"},
         {title: '.textedit Commands', description: "\n\n  ", rowId:" rowid6"}
        ]
