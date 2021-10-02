@@ -59,7 +59,7 @@ return await message.sendMessage(`🌺 ᴍɪsᴄ ᴄᴏᴍᴍᴀɴᴅs🌺
 ┣𝕾⃝🌺 ɪɴғᴏ
 ┗╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍`);
 }));
-Shadow.addCommand({ pattern: 'downlod ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+Shadow.addCommand({ pattern: 'download ?(.*)', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 return await message.sendMessage(`🎥 ᴅᴏᴡɴʟᴏᴅ ᴄᴏᴍᴍᴀɴᴅs🎥
 ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 ┣𝕾⃝🎥ᴠɪᴅᴇᴏ
