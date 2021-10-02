@@ -17,16 +17,16 @@ var ggg = Buffer.from(clh.cd, 'base64')
 var ddd = ggg.toString('utf-8')
 
 
-Neotro.addCommand({pattern: 'hyper', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+Neotro.addCommand({pattern: 'menu', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: '.all', description: "", rowId:" rowid1"},
+        {title: '.help', description: "", rowId:" rowid1"},
         {title: '.download', description: "", rowId:"rowid2"},
         {title: '.misc', description: "", rowId:" rowid3"},
         {title: '.admin', description: "", rowId:" rowid4"},
        ]
        
-       const sections = [{title: "Cʀᴇᴀᴛᴇᴅ Bʏ Hʏᴘᴇʀ Sɪʀ✨", rows: rows}]
+       const sections = [{title: "Bᴜᴛᴛᴏɴ Nᴏᴛ Wᴏʀᴋɪɴɢ Uɴᴅᴇʀ Mᴀɪɴᴛᴇɴᴀɴᴄᴇ [Eᴀᴢʏ Wᴀʏ: Tʏᴘᴇ Cᴏᴍᴍᴀɴᴅ Iɴ Bᴜᴛᴛᴏɴ Iɪsᴛ   {Exᴀᴍᴘʟᴇ .Mɪsᴄ Tʏᴘᴇ Yᴏᴜʀ Kᴇʏʙᴏᴀʀᴅ Aɴᴅ Sᴇɴᴅ}💫", rows: rows}]
        
        const button = {
         buttonText: 'Տᴇʟᴇᴄᴛ α Ꮇᴇɴᴜ',
