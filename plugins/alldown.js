@@ -10,16 +10,9 @@ Asena.addCommand({pattern: 'download', fromMe: false, desc: Lang.GL}, (async (me
     var r_text = new Array ();
 
 
+    var respotext = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-  r_text[0] = "https://i.imgur.com/dCrPuyu.jpeg";
-
-
-    var i = Math.floor(1*Math.random())
-
-
-    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
-
-    await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.text, caption: `🎥 ᴅᴏᴡɴʟᴏᴅ ᴄᴏᴍᴍᴀɴᴅs🎥
+    await message.sendMessage(Buffer.from(respotype.data), MessageType.text, {mimetype: Mimetype.text, caption: `🎥 ᴅᴏᴡɴʟᴏᴅ ᴄᴏᴍᴍᴀɴᴅs🎥
 ┏╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 ┣𝕾⃝🎥ᴠɪᴅᴇᴏ
 ┣𝕾⃝🎥 sᴏɴɢ
