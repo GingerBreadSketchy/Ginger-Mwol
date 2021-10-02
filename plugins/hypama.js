@@ -21,7 +21,7 @@ Neotro.addCommand({pattern: 'hyper', fromMe: false, dontAddCommandList: true}, (
 // send a list message!
     const rows = [
         {title: '.all menu', description: " ", rowId:" rowid1"},
-        {title: '.git', description: " ", rowId:"rowid2"},
+        {title: '.download Commands', description: " ", rowId:"rowid2"},
         {title: '.misc Commands', description: "\n\n ", rowId:" rowid3"},
         {title: '.owner Commands', description: " ", rowId:" rowid4"},
         {title: '.admin Commands', description: " ", rowId:" rowid5"},
