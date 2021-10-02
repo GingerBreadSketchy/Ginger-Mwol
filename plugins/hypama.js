@@ -20,11 +20,10 @@ var ddd = ggg.toString('utf-8')
 Neotro.addCommand({pattern: 'hyper', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: '.all     menu', description: " ", rowId:" rowid1"},
-        {title: '.download      Commands', description: " ", rowId:"rowid2"},
-        {title: '.misc    Commands', description: "\n\n ", rowId:" rowid3"},
-        {title: '.admin     Commands', description: " ", rowId:" rowid4"},
-        {title: '.textedit     Commands', description: "\n\n  ", rowId:" rowid5"}
+        {title: '.all', description: " ", rowId:" rowid1"},
+        {title: '.download', description: " ", rowId:"rowid2"},
+        {title: '.misc', description: "\n\n ", rowId:" rowid3"},
+        {title: '.admin', description: " ", rowId:" rowid4"},
        ]
        
        const sections = [{title: "Cʀᴇᴀᴛᴇᴅ Bʏ Hʏᴘᴇʀ Sɪʀ✨", rows: rows}]
