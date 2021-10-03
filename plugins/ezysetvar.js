@@ -10,8 +10,6 @@ const heroku = new Heroku({
 });
 let baseURI = '/apps/' + config.HEROKU.APP_NAME;
 
-
-
     Julie.addCommand({ pattern: 'sudo ?(.*)', fromMe: true, desc: 'changes sudo numbers', usage: '.sudo *your number*' }, (async (message, match) => {
         if (match[1] == '') return await message.sendMessage('NEED A NUMBER')
         await heroku.patch(baseURI + '/config-vars', {
