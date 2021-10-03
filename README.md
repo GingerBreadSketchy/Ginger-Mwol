@@ -16,6 +16,7 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
     <br> 
 </p>
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hypersir/Fidha-Mwol&title=Profile%20Views)
 ## Setup
 <div align="center">
 
