@@ -370,7 +370,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Ғɪᴅʜᴀ Ꮇᴡᴏʟ ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~______~ Ғɪᴅʜᴀ Ꮇᴡᴏʟ ~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n'
                                     , MessageType.text);
                             }
