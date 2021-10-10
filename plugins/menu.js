@@ -7,7 +7,7 @@ const Rashi = require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
-const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
+const hrs = new Date().getHours({ timeZone: 'Africa/Nairobi' })
 
 Rashi.addCommand({pattern: 'list', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
@@ -21,7 +21,7 @@ Rashi.addCommand({pattern: 'list', fromMe: false, desc: 'it send bot menu'}, (as
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    var time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
+    var time = new Date().toLocaleString('HI', { timeZone: 'Africa/Nairobi' }).split(' ')[1]
 
     var wish = ''
      
@@ -138,7 +138,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ▢ .sᴇᴛᴠᴀʀ
 │ 
 │
-│   ❏ *𝓖𝓲𝓷𝓰𝓮𝓻𝓑𝓻𝓮𝓪𝓭𝓢𝓴𝓮𝓽𝓬𝓱𝔂🤓* ❏
+│   ❏ 𝓖𝓲𝓷𝓰𝓮𝓻𝓑𝓻𝓮𝓪𝓭𝓢𝓴𝓮𝓽𝓬𝓱𝔂 ❏
 ╰──────────────────╯
 `}) 
 
