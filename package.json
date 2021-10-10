@@ -1,14 +1,14 @@
 {
-  "name": "FidhaMwol",
+  "name": "GingerMwol",
   "version": "7.3.6",
-  "description": "Fidha Mwol is the Modified Version of JulieMwol, Made By @Hypersir with Baileys.",
+  "description": "Ginger Mwol is the Modified Version of FidhaMwol, Made By Gingersketchy with Baileys.",
   "main": "./Julie-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hypersir/Fidha-Mwol.git"
+    "url": "git+https://github.com/GingerBreadSketchy/Ginger-Mwol.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,11 +17,11 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "Hypersir",
-  "developer": "@Hypersir / @farhan-dqz",
+  "author": "GingerBreadSketchy",
+  "developer": "@Ginger/ @farhan-dqz",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Hypersir/Fidha-Mwol/issues"
+    "url": "https://github.com/GingerBreadSketchy/Ginger-Mwol/issues"
   },
   "homepage": "https://github.com/Hypersir/Fidha-Mwol#readme",
   "dependencies": {
