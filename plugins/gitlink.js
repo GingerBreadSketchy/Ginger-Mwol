@@ -11,26 +11,26 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://i.imgur.com/dCrPuyu.jpeg";
+  r_text[0] = "https://telegra.ph/file/8fe0170c4d32c889b3cd6.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*•━━━━╼⤏FidhaMwol⤎╾━━━•*
+    await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*•━━━━╼᚜┃𝗚𝗶𝗻𝗴𝗲𝗿𝗠𝗮𝗳𝗶𝗮𝗕𝗼𝘁┃᚛╾━━━•*
  
 
-        *ɢɪᴛʜᴜʙ ʟɪɴᴋ        _https://github.com/GingerBreadSketchy/Ginger-Mwol_*
+       👿 *ɢɪᴛʜᴜʙ ʟɪɴᴋ        _https://github.com/GingerBreadSketchy/Ginger-Mwol_*
  
 
-       *ʙᴏᴛ ᴍᴀᴋɪɴɢ ᴠɪᴅᴇᴏ    _https://youtu.be/WGfDEHJyV1I_*
+      👿  *ʙᴏᴛ ᴍᴀᴋɪɴɢ ᴠɪᴅᴇᴏ    _https://youtu.be/WGfDEHJyV1I_*
  
  
-       *ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ        _https://Wa.me/+917025967090_*
+      👿 *ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ        _https://Wa.me/+254792893310_*
   
   
-      *ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ʟɪɴᴋ _https://github.com/Hypersir_*
+     👿 *ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ʟɪɴᴋ _https://github.com/GingerBreadSketchy_*
 `}) 
 
 })); 
