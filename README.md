@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/GingerBreadSketchy">Ginger-Sketch
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hypersir/Fidha-Mwol&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GingerBreadSketchy/Ginger-Mwol&title=Profile%20Views)
 ## Setup
 <div align="center">
 
@@ -57,13 +57,13 @@ $ node Ginger.js
   <a href="httsp://github.com/GingerBreadSketchy/Ginger-Mwol">
     
 <a href="https://github.com/GingerBreadSketchy/followers">
-<img src="https://img.shields.io/github/repo-size/Hypersir/Fidha-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/GingerBreadSketchy/Ginger-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/GingerBreadSketchy/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/GingerBreadSketchy?color=blue&style=flat-square"></a>
-<a href="https://github.com/GingerBreadSketchy/Ginger-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hypersir/Fidha-Mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/GingerBreadSketchy/Ginger-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hypersir/Fidha-Mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/GingerBreadSketchy/Ginger-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hypersir/Fidha-Mwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/GingerBreadSketchy/Ginger-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GingerBreadSketchy/Ginger-Mwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/GingerBreadSketchy/Ginger-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GingerBreadSketchy/Ginger-Mwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/GingerBreadSketchy/Ginger-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GingerBreadSketchy/Ginger-Mwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -87,10 +87,10 @@ By establishing the Hyper, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Hyper Sir](https://i.imgur.com/chUNhnK.jpeg)](https://github.com/Hypersir) |  [![hyper_sir](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![SPARK-SHADOW](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Hyper Sir](https://i.imgur.com/chUNhnK.jpeg)](https://github.com/Hypersir) |  [![hyper_sir](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![GingerBreadSketchy](https://github.com/GingerBreadSketchy.png?size=100)](https://github.com/GingerBreadSketchy) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [Hyper-sir](https://github.com/Hypersir) | [afnanplk](https://github.com/afnanplk) | [SPARK-SHADOW](https://github.com/SPARK-SHADOW | [Ginger Sketchy](https://github.com/GingerBreadSketchy) 
-Developer, Modifying as Public | Re-Developer, Bug Fixes, Modules, Commits |  Bug Fixes, Modules | Bug Fixes, Commits
+[farhan-dqz](https://github.com/farhan-dqz) | [Hyper-sir](https://github.com/Hypersir) | [afnanplk](https://github.com/afnanplk) | [GingerBreadSketchy](https://github.com/GingerBreadSketchy) 
+Developer, Modifying as Public | Re-Developer, Bug Fixes, Modules, Commits |  Bug Fixes, Modules | Bug Fixes, Commits | Bug Fixes, Commits
   </div>
     
 
