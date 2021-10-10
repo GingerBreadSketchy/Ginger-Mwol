@@ -1,18 +1,18 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+FidhaMwol+WA+Bot+repo;Created+by+Hypersir+with+baileys;This+is+a+WhatsApp+UserBot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+GingerMwol+WA+Bot+repo;Created+by+GingerSketchy+with+baileys;This+is+a+WhatsApp+UserBot;With+more+features)](https://git.io/typing-svg)
 
  </a>
   <img border-radius: 15px src="https://i.imgur.com/chUNhnK.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Fidhamwol" src="https://img.shields.io/badge/fidha-mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="GingerMwol" src="https://img.shields.io/badge/Ginger-mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hypersir"><img title="Author" src="https://img.shields.io/badge/Author-Hyper-Sir/Fidhamwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/GingerBreadSketchy"><img title="Author" src="https://img.shields.io/badge/Author-Ginger-Sketchy/GingerMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make it public
+Project created by <a href="https://github.com/GingerBreadSketchy">Ginger-Sketchy</a> to make it public
     <br>
        | © |
         Reserved |
@@ -36,44 +36,44 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Hypersir/Fidha-Mwol
-$ cd Fidha-Mwol
+$ git clone https://github.com/GingerBreadSketchy/Ginger-Mwol
+$ cd Ginger-Mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Fidha.js
+$ node Ginger.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/Hypersir/Fidha-Mwol
-$ cd FidhaMwol
+$ git clone https://github.com/GingerBreadSketchy/Ginger-Mwol
+$ cd GingerMwol
 $ npm i
-$ node Fidha.js
+$ node Ginger.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Hypersir/Fidha-Mwol">
+  <a href="httsp://github.com/GingerBreadSketchy/Ginger-Mwol">
     
-<a href="https://github.com/Hypersir/followers">
+<a href="https://github.com/GingerBreadSketchy/followers">
 <img src="https://img.shields.io/github/repo-size/Hypersir/Fidha-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Hypersir/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Hypersir?color=blue&style=flat-square"></a>
-<a href="https://github.com/Hypersir/Fidha-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hypersir/Fidha-Mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/Hypersir/Fidha-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hypersir/Fidha-Mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/Hypersir/Fidha-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hypersir/Fidha-Mwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/GingerBreadSketchy/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/GingerBreadSketchy?color=blue&style=flat-square"></a>
+<a href="https://github.com/GingerBreadSketchy/Ginger-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hypersir/Fidha-Mwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/GingerBreadSketchy/Ginger-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hypersir/Fidha-Mwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/GingerBreadSketchy/Ginger-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hypersir/Fidha-Mwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
 Any doubt click wa logo👇
     <br>
 <br>
-  <a href="https://wa.me/+527777143999"><img title="any doubt contact" src="https://img.shields.io/badge/any_doubt_contact-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://wa.me/+254792893310"><img title="any doubt contact" src="https://img.shields.io/badge/any_doubt_contact-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypersir&repo=Fidha-Mwol&theme=nightowl)](https://github.com/Hypersir/Fidha-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GingerBreadSketchy&repo=Ginger-Mwol&theme=nightowl)](https://github.com/GingerBreadSketchy/Ginger-Mwol)
   </div>
     
 ### ⚠️ Warning! 
