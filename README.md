@@ -73,8 +73,7 @@ Any doubt click wa logo👇
   <a href="https://wa.me/+254792893310"><img title="any doubt contact" src="https://img.shields.io/badge/any_doubt_contact-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GingerBreadSketchy&repo=Ginger-Mwol&theme=nightowl)](https://github.com/GingerBreadSketchy/Ginger-Mwol)
-  </div>
+ 
     
 ### ⚠️ Warning! 
 ```
