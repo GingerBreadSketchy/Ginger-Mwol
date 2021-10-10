@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+GingerMwol+WA+Bot+repo;Created+by+GingerSketchy+with+baileys;This+is+a+WhatsApp+UserBot;With+more+features)](https://git.io/typing-svg)
 
  </a>
-  <img border-radius: 15px src="https://i.imgur.com/chUNhnK.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/8fe0170c4d32c889b3cd6.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="GingerMwol" src="https://img.shields.io/badge/Ginger-mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
