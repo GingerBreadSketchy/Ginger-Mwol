@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer.from(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*•━━━━╼⤏FidhaMwol⤎╾━━━•*
  
 
-        *ɢɪᴛʜᴜʙ ʟɪɴᴋ        _http://github.com/Hypersir/Fidha-Mwol_*
+        *ɢɪᴛʜᴜʙ ʟɪɴᴋ        _https://github.com/GingerBreadSketchy/Ginger-Mwol_*
  
 
        *ʙᴏᴛ ᴍᴀᴋɪɴɢ ᴠɪᴅᴇᴏ    _https://youtu.be/WGfDEHJyV1I_*
