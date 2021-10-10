@@ -14,7 +14,7 @@ Rashi.addCommand({pattern: 'list', fromMe: false, desc: 'it send bot menu'}, (as
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/4Oir08c.jpeg";
+    r_text[0] = "https://telegra.ph/file/8fe0170c4d32c889b3cd6.jpg";
     
     
     var i = Math.floor(1*Math.random())
