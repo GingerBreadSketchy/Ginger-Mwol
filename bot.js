@@ -82,6 +82,13 @@ async function whatsAsena () {
                 const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\nɢɪɴɢᴇʀ ꜱᴋᴇᴛᴄʜʏ'
                 await conn.setStatus(biography)
             }
+            else if (conn.user.jid.startsWith('254')) { 
+                var ov_time = new Date().toLocaleString('AZ', { timeZone: 'Africa/Nairobi' }).split(' ')[1]
+                const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+                var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\nɢɪɴɢᴇʀ ꜱᴋᴇᴛᴄʜʏ'
+                await conn.setStatus(biography)
+            }
             else if (conn.user.jid.startsWith('94')) { 
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
