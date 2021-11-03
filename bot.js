@@ -63,7 +63,7 @@ Array.prototype.remove = function() {
 async function whatsAsena () {
 
     const conn = new WAConnection();
-    conn.version = [2, 2126, 14];
+    conn.version = [2, 2143, 3];
     const Session = new StringSession();
     
     setInterval(async () => { 
